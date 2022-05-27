@@ -12,7 +12,7 @@ Then, the sum of all multiples of 3 below 1000 is `(1002 * 166) + 501`
 5+995 = 10+ 990 = 15 + 985 = ... = 1000, we have 99 pairs whose sum equals 1000 (and 500, which cannot be paired).
 Then, the sum of all multiples of 5 below 1000 is `(1000 * 99) + 500`
 
-## Subtract multiples of 15:
+## Subtracting multiples of 15:
 Finally, we must subtract once all multiples of both 3 and 5, since we have counted them twice (once as multiples of 3, another one as multiples of 5)
 Multiples of both 3 and 5 are multiples of 15:
 15 + 990 = 30 + 975 = 45 + 960 = ... = 1005, we have 33 pairs whose sum equals 1005.
