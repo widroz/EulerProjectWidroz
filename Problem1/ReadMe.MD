@@ -1,6 +1,6 @@
 # Problem 1
 
-** Find the sum of all the multiples of 3 or 5 below 1000. **
+**Find the sum of all the multiples of 3 or 5 below 1000.**
 
 ## Multiples of 3
 
@@ -19,6 +19,6 @@ Finally, we must subtract once all multiples of both 3 and 5, since we have coun
 Then, the sum of all multiples of 15 below 1000 is `(1005 * 33)`
 
 ### Time Complexity
-This problem could have been solved using a loop and checking each natural number until reaching 999
-Solving the problem this way, we have a solution of complexity **O(n-1)**
-On the other hand, this solution provides **O(1)**
+This problem could have been solved using a loop and checking each natural number until reaching 999.
+Solving the problem this way, we have a solution of complexity **O(n-1)**.
+On the other hand, this solution provides **O(1)**.
